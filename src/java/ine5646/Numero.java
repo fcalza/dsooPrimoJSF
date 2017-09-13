@@ -8,10 +8,7 @@ package ine5646;
 import javax.faces.bean.ManagedBean;
 import javax.faces.bean.RequestScoped;
 
-/**
- *
- * @author martin
- */
+
 @ManagedBean(name = "numero")
 @RequestScoped
 public class Numero {
